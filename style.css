@@ -1,0 +1,28 @@
+#credits {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    background-color: white;
+    color: black;
+    line-height: 3;
+}
+body {
+  background: gray;
+
+}
+h1 {
+font-family: 'Courier New', Courier, monospace;
+font-weight: 900;
+color: beige;
+}
+h4 {
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+color: red;
+}
+#photos {
+  border-radius: 5px;
+  border: 2px solid rgb(red, green, blue);
+   
+
+}
